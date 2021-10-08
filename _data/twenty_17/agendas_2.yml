@@ -1,8 +1,2 @@
-- time: 09:00 - 12:00
-  info: "<u>Title</u><br><b>Name</b><br><i>Position</i><br><br>Topic"
-
-- time: 12:00 - 13:00
-  info: "<br><u>Lunch break</u><br><br>"
-  
-- time: 13:00 - 20:00
-  info: "<u>Title</u><br><b>Name</b><br><i>Position</i><br><br>Topic"
+- time: 09:00 - Late
+  info: "<br><u>Hacking and Thinking</u><br><br><u>Social and discussion events TBA</u><br><br>"
