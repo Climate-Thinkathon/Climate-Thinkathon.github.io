@@ -1,26 +1,26 @@
-- title: Luana
-  name: Name-1
-  subtitle: Organizer
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
-
-- title: Tula
+- title: Tula Böschen
   name: Name-2
   subtitle: Organizer
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
+  img: Tula.jpg
+  thumbnail: Tula.jpg
+  alt: Picture of Tula
   topic: Topic
-  description: More Info
+  description:
 
-- title: Johannes
+- title: Luana Schwarz
+  name: Name-1
+  subtitle: Organizer
+  img: Luana.jpg
+  thumbnail: Luana.jpg
+  alt: Picture of Luana
+  topic: Topic
+  description:
+
+- title: Johannes Schrumpf
   name: Name-3
   subtitle: Organizer
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
+  img: Johannes.png
+  thumbnail: Johannes.png
+  alt: Picture of Name
   topic: Topic
-  description: More Info
+  description:
