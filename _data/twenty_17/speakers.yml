@@ -1,54 +1,60 @@
-- title: Challenge 1
-  name: Name-1
+- title: In Unsafe Waters
+  name: Challenge-1
+  subtitle:
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: In Unsafe Waters
+  topic: In Unsafe Waters
+  description: Using the example of a boat on an unknown body of water, we will use Deep Reinforcement Learning to learn how to control a dynamical system, even with very limited information, so that its state remains within a desired range. To do this, we will use a provided Python gym environment to train a neural network to keep the boat from crashing into a waterfall for as long as possible by adjusting the rudder and motor. The learned steering strategies are then to be visualized and, if possible, emulated with a decision tree and thus made explainable.
+  supervisors: The challenge supervisors are Jobst Heitzig and Adrian Lison. 
+  
+- title: Time Travel
+  name: Challenge-2
   subtitle: 
   img: TBD.jpg
   thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: TBA
-  description: More information coming soon!
+  alt: Time Travel
+  topic: Time Travel
+  description: This challenge will be about a scientific online game that enables participants to time travel into their climate futures. We will search for ways how the game can best enhance the participants’ awareness of climate change and thus, inspire more climate friendly behavior. This can include theoretical considerations such as psychological explanations of behavior change (e.g., theory of planned behavior) but also aspects of usability and user experience (e.g., related to tracking the participants’ climate footprints within the game).
+  supervisors: The challenge supervisors are Alexandra Hüttel, Jobst Heitzig, and Daniel Tamberg. 
 
-- title: Challenge 2
-  name: Name-2
+- title: The Influence of Identities on Collective Action
+  name: Challenge-3
   subtitle: 
   img: TBD.jpg
   thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: TBA
-  description: More information coming soon!
-
-- title: Challenge 3
-  name: Name-3
-  subtitle: 
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: TBA
-  description: More information coming soon!
+  alt: The Effect of Identities on Collective Action
+  topic: The Effect of Identities on Collective Action
+  description: Solutions to the climate crisis are collective action challenges, which implies that a majority needs to act to resolve the problem. More specifically, a majority of individuals need to turn current carbon-intensive lifestyle and consumption behaviours into sustainable lifestyles and environmental-friendly behaviour. Research has shown that social identity can be an important predictor for pro-environmental behaviour through conformity to group values, goals and norms. Thus, what the group thinks or does is an incredibly powerful motivation for others to follow. But how can this information be used to promote pro-environmental behaviour? In this challenge, participants will design an experiment to assess the potential impact of a policy intervention aimed at tapping into social identities (or bridging social divides) to foster collective action and pro-environmental behaviour to combat climate change/address the climate crisis.
+  supervisors: The challenge supervisors are Laura Herzog, Larissa Koch, Juan Felipe Ortiz, Johannes Halbe, and Tobias Vorlaufer. 
   
-- title: Challenge 4
-  name: Name-4
-  subtitle: 
+- title: Survival of the Greenest
+  name: Challenge-4
+  subtitle:
   img: TBD.jpg
   thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: TBA
-  description: More information coming soon!
+  alt: Survival of the Greenest
+  topic: Survival of the Greenest
+  description: In the current climate crisis, we have to learn to respect the planetary boundaries in order to preserve our own species and the ecosystem as well. To evolve such an environmentally-friendly "green mindset", it is important that more people commit to sustainable behaviour in the future. This challenge is about finding ways to do so in terms of "episodic future thinking", i.e., “pre-living” a desirable, sustainable, climate-friendly future. Such future thinking would not be limited to the individual but may be extended to the collective level as well. The challenge may be met by designing a behavioral experiment identifying the most favourable future thinking conditions under which participants act sustainably – individually or collectively. It may also be met by cognitive modelling. The challenges are free to invoke variables (and covariates) that they deem relevant for efficacious future thinking and, eventually, for establishing a “green mindset”.
+  supervisors: The challenge supervisors are Annette Hohenberger and Dibyashree Nahak.
   
-- title: Challenge 5
-  name: Name-5
+- title: Philosophy for Climate Action
+  name: Challenge-5
   subtitle: 
   img: TBD.jpg
   thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: TBA
-  description: More information coming soon!
+  alt: Philosophy for Climate Action
+  topic: Philosophy for Climate Action
+  description: Philosophy is not famous for being a major contributor to a response addressing the climate crisis. In fact, when thinking about and working on solutions regarding the problems heading our way, Philosophy hardly comes to mind at all. We want to change that. Therefore, in this challenge we want to think about ways in which Philosophy may change such that it can adequately tackle the climate crisis.
+  supervisors: The challenge supervisors is Paul Schütze.
   
-- title: Challenge 6
-  name: Name-6
+- title: Modeling Human Decision Making of Meat Consumption 
+  name: Challenge-6
   subtitle: 
   img: TBD.jpg
   thumbnail: TBD.jpg
   alt: Picture of TBD
-  topic: TBA
-  description: More information coming soon!
+  topic: Modeling Human Decision Making of Meat Consumption
+  description: Besides obvious contributors to greenhouse gas emissions like the transport system or the energy sector, livestock production significantly contributes to greenhouse gas emissions. Total emissions from global livestock contribute to 14.5% of greenhouse gas emissions worldwide. Hence, considering the aspect of greenhouse gas emissions, a decision we can make every day for or against climate change is choosing a meat or vegetarian meal. In this Thinkathon we want to address the question of how meat consumption in a society could be influenced. How strongly are we guided by the behavior of the people around us, the increasing number of extreme weather events or protests and information campaigns? And is it possible to change the consumption behavior with political interventions like higher taxes on meat? We want to get to the bottom of the questions with ideas from game theory. Those basic ideas can be modeled with a cellular automaton, which is a computer simulation tool based on certain rules and relationships to our neighbors or peers. The basics on programming are going to be explained in a tutorial, so previous knowledge is not required.
+  supervisors: The challenge supervisors are Frank Hilker and team.
   
