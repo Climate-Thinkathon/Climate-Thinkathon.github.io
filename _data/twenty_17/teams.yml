@@ -5,7 +5,7 @@
   thumbnail: Tula.jpg
   alt: Picture of Tula
   topic: Topic
-  description:
+  description: Tula completed her Cognitive Science Bachelor's thesis with the Potsdam Institute for Climate Impact Research (PIK) Future Lab of Artificial Intelligence. She works as a research assistant at The German Research Center for Artificial Intelligence (DFKI) and Charité Berlin, and studies psychology. Tula’s interdisciplinary interests range from machine learning applications to critical science and clinical psychology.
 
 - title: Luana Schwarz
   name: Name-1
@@ -14,7 +14,7 @@
   thumbnail: Luana.jpg
   alt: Picture of Luana
   topic: Topic
-  description:
+  description: Luana finished her Cognitive Science Bachelor at the University of Osnabrück as a guest scientist in the copan collaboration at the Potsdam Institute for Climate Impact Research (PIK). She recently started her Master's degree in Environmental Systems and Resource Management at the University of Osnabrück, and continues to work as a researcher at PIK. Luana is interested in investigating the links between individual cognition and human behavior / social dynamics in social-ecological systems.
 
 - title: Johannes Schrumpf
   name: Name-3
@@ -23,4 +23,4 @@
   thumbnail: Johannes.png
   alt: Picture of Name
   topic: Topic
-  description:
+  description: Johannes is a Cognitive Scientist and PhD candidate at the University of Osnabrück. His focus lies on utilizing, understanding, and comparing algorithms to make the world a better place. He applies this in the world of digital education to bring information to, and connect people to enable them to follow their own individual interests. Johannes is interested in the development and the evaluation of Artificial Intelligence algorithms for a more human digital age.
